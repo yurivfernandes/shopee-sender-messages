@@ -12,6 +12,7 @@
 .run/
 .idea/
 .env
+/.json_api_whatsapp
 
 # testing
 /coverage
